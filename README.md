@@ -12,30 +12,13 @@ The projects cover a wide range of topics including statistics, machine learning
 ## 📘 Course Projects Overview
 
 ### 🔹 Descriptive Statistics
----
-
-### 🔹 Applied Statistics: 
-
-**Sampling Project (R)**  
-**Time Series Project (R)**  
----
-
+### 🔹 Applied Statistics 
 ### 🔹 Programming
----
-
 ### 🔹 Databases
----
-
-### 🔹 Statistical Programming (SAS)
----
+### 🔹 Statistical Programming
 ### 🔹 Machine Learning
----
-
 ### 🔹 Biostatistics
----
-
 ### 🔹 Linear Models
----
 
 ## 🛠️ Tools & Technologies
 
