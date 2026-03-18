@@ -12,11 +12,23 @@ The projects cover a wide range of topics including statistics, machine learning
 
 ## 📘 Course Projects Overview
 
-### 🔹 Descriptive Statistics
-**Olive Oil Classification (R)**  
-Analyzed Italian olive oil samples to classify products based on fatty acid composition.  
-Performed descriptive statistics, correlation analysis and hierarchical clustering to identify geographical and chemical patterns across regions.
+### 🔹 Descriptive Statistics 
 
+**Olive Oil Descriptive Analysis (R)**  
+Analyzed 572 Italian olive oil samples based on fatty acid composition.
+
+- Descriptive statistics and group comparisons by geographical area  
+- Correlation analysis between fatty acids  
+- Hierarchical clustering (Ward method, Euclidean distance)  
+
+Identified strong regional patterns and key relationships between chemical components.
+
+**Principal Component Analysis (R)**  
+Applied PCA to reduce dimensionality and study the structure of the data.
+
+- Variable standardization and component extraction  
+- Selection of principal components
+- Analysis of loadings and graphical representations
 
 ### 🔹 Applied Statistics 
 **Sampling Project (R)**  
