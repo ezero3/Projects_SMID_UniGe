@@ -12,7 +12,7 @@ The projects cover a wide range of topics including statistics, machine learning
 
 ## 📘 Course Projects Overview
 
-### 🔹 Descriptive Statistics 
+### 🔹 Descriptive Statistics & PCA Analysis
 
 **Olive Oil Descriptive Analysis (R)**  
 Analyzed 572 Italian olive oil samples based on fatty acid composition.
