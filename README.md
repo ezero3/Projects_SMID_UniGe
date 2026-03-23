@@ -114,7 +114,7 @@ Analyzed heart rate response under different diets and exercise types:
 - Repeated measures ANOVA  
 - Hypothesis testing using Wilks, Pillai, Hotelling-Lawley, Roy statistics
 
-### 🔹 Internship Project
+### 🔹 Internship Project (py)
 
 ## 🛠️ Tools & Technologies
 
