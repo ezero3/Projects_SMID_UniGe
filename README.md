@@ -112,7 +112,9 @@ Modeled contraceptive use using binomial regression:
 Analyzed heart rate response under different diets and exercise types:
 - Multivariate linear models  
 - Repeated measures ANOVA  
-- Hypothesis testing using Wilks, Pillai, Hotelling-Lawley, Roy statistics  
+- Hypothesis testing using Wilks, Pillai, Hotelling-Lawley, Roy statistics
+
+### 🔹 Internship Project
 
 ## 🛠️ Tools & Technologies
 
