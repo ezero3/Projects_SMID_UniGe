@@ -146,7 +146,7 @@ Feel free to connect with me for questions or collaborations:
 - LinkedIn: [Edoardo Zero](www.linkedin.com/in/edoardo-zero)
 - Gmail: [edoardozero3@gmail.com]
 
-Linkedin of my workmates:
+LinkedIn of my workmates:
 - [Matteo Montisci](https://www.linkedin.com/in/matteo-montisci-316a71364/)
 - [Tommaso Scibilia](https://www.linkedin.com/in/tommaso-scibilia-2ba802327/)
 ---
