@@ -143,7 +143,7 @@ This repository is intended as a **technical portfolio** to document my academic
 
 Feel free to connect with me for questions or collaborations:
 
-- LinkedIn: [www.linkedin.com/in/edoardo-zero]
+- LinkedIn: [Edoardo Zero](www.linkedin.com/in/edoardo-zero)
 - Gmail: [edoardozero3@gmail.com]
 
 Linkedin of my workmates:
