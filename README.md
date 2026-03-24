@@ -64,7 +64,7 @@ Designed and implemented a relational database system including:
 - Constraints, triggers, and views  
 - Data population scripts and analytical queries  
 
-Ensured normalization (BCNF), data integrity, and enforcement of business rules.
+Ensured normalization (BCNF), data integrity and enforcement of business rules.
 
 
 ### 🔹 Statistical Programming
@@ -73,9 +73,9 @@ Ensured normalization (BCNF), data integrity, and enforcement of business rules.
 Performed data analysis using SAS:
 - Data cleaning and unit conversion  
 - Correlation analysis and visualization (boxplots, scatterplots)  
-- Comparative analysis across US, European, and Japanese cars  
+- Comparative analysis across US, European and Japanese cars  
 
-Identified patterns in price, fuel efficiency, and regional manufacturing differences.
+Identified patterns in price, fuel efficiency and regional manufacturing differences.
 
 
 ### 🔹 Machine Learning
@@ -87,7 +87,7 @@ Techniques applied:
 - SVM, KNN, XGBoost  
 - Class imbalance handling (ROSE)  
 
-Evaluated models using AUC, accuracy, and sensitivity.  
+Evaluated models using AUC, accuracy and sensitivity.  
 Highlighted key environmental drivers of bloom risk.
 
 ### 🔹 Biostatistics
@@ -146,4 +146,7 @@ Feel free to connect with me for questions or collaborations:
 - LinkedIn: [www.linkedin.com/in/edoardo-zero]
 - Gmail: [edoardozero3@gmail.com]
 
+Linkedin of my workmates:
+- [Matteo Montisci](https://www.linkedin.com/in/matteo-montisci-316a71364/)
+- [Tommaso Scibilia](https://www.linkedin.com/in/tommaso-scibilia-2ba802327/)
 ---
